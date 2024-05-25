@@ -220,11 +220,8 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   </a>
 </div> -->
 ![harsh hero stats](https://github-readme-stats.vercel.app/api?username=hharshas&show_icons=true&theme=neon)
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=hharshas&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"> 
 
-![Harsh Singh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hharshas&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hharshas&theme=algolia&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hharshas&theme=algolia&no-frame=true&theme=neon&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- # 📊 Metrics
 
