@@ -182,7 +182,6 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
     <a href="https://stardev.io/developers/reskimulud"><img alt="Check out reskimulud&apos;s profile on stardev.io" src="https://stardev.io/developers/reskimulud/badge/languages/global.svg" /></a>
   </div> -->
 
-# 📈 Github Statistic
 
 <!-- <div align="center">
   <a href="https://github.com/hharshas">
