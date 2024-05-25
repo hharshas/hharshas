@@ -29,7 +29,7 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6386250212)&nbsp;
   [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/reskimulud)&nbsp;
   
-  <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/reskimulud) --> -->
+  <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/reskimulud) --> 
 
 # Tech Stack
 
@@ -221,7 +221,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 </div> -->
 ![harsh hero stats](https://github-readme-stats.vercel.app/api?username=hharshas&show_icons=true&theme=neon)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hharshas&theme=algolia&no-frame=true&theme=neon&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hharshas&theme=neon&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- # 📊 Metrics
 
