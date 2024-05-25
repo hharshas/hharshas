@@ -191,7 +191,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 </div> -->
 ![harsh hero stats](https://github-readme-stats.vercel.app/api?username=hharshas&show_icons=true&theme=neon)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hharshas&theme=algolia&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hharshas&theme=algolia&no-frame=true&margin-w=10&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- # 📊 Metrics
 
