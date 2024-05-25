@@ -2,10 +2,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hharshas&theme=algolia&no-frame=true&margin-w=10&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
-## 🙋‍♂️ Social
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6386250212)&nbsp;
+<!-- ## 🙋‍♂️ Social -->
 
-  
+ 
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6386250212)&nbsp;
 # Tech Stack
 
 ### Web Development
