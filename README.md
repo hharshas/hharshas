@@ -1,16 +1,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hharshas&theme=algolia&no-frame=true&margin-w=10&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
-<!-- <br>
-## 🙋‍♂️ Social
 
-  [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://reskimulud.my.id)&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reskimulud)&nbsp;
-  [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reskimulud)&nbsp;
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/reskimulud)&nbsp;
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reski.mulud@gmail.com)&nbsp;
-  [![Twitter](https://img.shields.io/badge/reski_mulud-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/reskimulud)&nbsp;
+<br>
+## 🙋‍♂️ Social
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6386250212)&nbsp;
+
+  
 # Tech Stack
 
 ### Web Development
