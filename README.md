@@ -277,7 +277,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hharshas&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
   </a>
 </div> -->
-![harsh hero stats](https://github-readme-stats.vercel.app/api?username=hharshas&show_icons=true&bg_color=00000000)
+![harsh hero stats](https://github-readme-stats.vercel.app/api?username=hharshas&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false)
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=hharshas&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"> 
 
 ![Harsh Singh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hharshas&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
