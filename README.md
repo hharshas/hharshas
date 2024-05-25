@@ -103,7 +103,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 ```
 
 
-<div>
+<!-- <div>
     <br>
     <br>
     <br>
@@ -176,70 +176,11 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
         <a href="https://github-readme-streak-stats.herokuapp.com">
             <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnKun136NVCP&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
         </a><!--change language to japanese locale=jp-->
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JohnKun136NVCP&theme=radical&row=4&column=4">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
-        </a>
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=JohnKun136NVCP&theme=redical">
-        </a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnKun136NVCP&theme=2077">
-    </p>
-</div>
-<br>
-<br>
-<h1 align="center"> My contributions game 🐍🎮</h1>
-
+<!-- 
 ![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
-<br>
+<br> -->
 
-<h2 align ="center"> 📝 Contact me 📝</h2>
-<br> 
-<div align="center">
-    <a href="https://github.com/JohnKun136NVCP" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
-    </a>
-    <a href="https://twitter.com/JohnWilliamBn" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
-    </a>
-    <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
-    </a>
-    <br>
-    <img align="center"src = "img/vocaloid/hatsunemikudrop.gif" width = "500">
-</div>  
-<br>
-<div>
-    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-    <div align="center">
-        <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="500"/>
-    </div>
-</div>
-<br> 
-<br>
-
-    
-<h1 align="center">Support Me 🎧🎤  </h1>
-
-<p align="center">
-⠀⠀⠀⠀⠀<img src="img/vocaloid/vocaloidchibi.png">
-</p>
-
-
-<a href="https://www.buymeacoffee.com/johnkun29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center"></a>
-<!-- # Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" />
-
-![](screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg)
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;
-![Profile Viewer](https://komarev.com/ghpvc/?username=reskimulud&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
-[![wakatime](https://wakatime.com/badge/user/b02a286e-3d0f-4af8-a433-7d562aaf08e9.svg)](https://wakatime.com/@reskimulud)&nbsp;
-![Metrics](https://github.com/reskimulud/reskimulud/actions/workflows/metrics.yml/badge.svg)&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/reskimulud.svg?style=social)&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/reskimulud/reskimulud.svg?style=social)](https://github.com/reskimulud/reskimulud)&nbsp;
-[![GitHub: reskimulud](https://img.shields.io/github/followers/reskimulud?label=follow&style=social)](https://github.com/reskimulud)&nbsp; -->
 
 <!-- ## I am [Reski Mulud Muchamad](https://reskimulud.my.id)
 
